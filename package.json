@@ -1,0 +1,1 @@
+{"dependencies":{"@hono/node-server":"^1.14.0","hono":"^4.9.0"},"description":"Minimal x402 paid API for vAPI Call: live crypto price lookup (CoinGecko public data), $0.005 USDC per call on Base.","name":"vapi-call-price-api","private":true,"scripts":{"start":"node index.mjs"},"type":"module","version":"1.0.0","devDependencies":{"esbuild":"^0.28.2"}}
